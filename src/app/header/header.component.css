@@ -1,0 +1,23 @@
+
+.navbar {
+    background-color: #93d0ff;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+
+
+.nav {
+    list-style: none;
+    display: flex;
+}
+
+.nav li a {
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
